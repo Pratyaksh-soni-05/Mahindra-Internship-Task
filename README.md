@@ -44,3 +44,16 @@ Longer lead times tend to correlate with higher cancellation likelihood.
 Family bookings tend to be more frequent during vacation months (June–August).
 
 Market segment and distribution channel influence booking confirmation rate.
+
+🗂️ Files
+hotel_bookings_eda.ipynb: Jupyter notebook containing all analysis and plots.
+
+README.md: Project overview and summary.
+
+🚀 How to Run
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/hotel-bookings-eda.git
+cd hotel-bookings-eda
+jupyter notebook hotel_bookings_eda.ipynb
